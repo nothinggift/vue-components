@@ -63,7 +63,7 @@
       @media (min-width: 1281px) {
         top: 0;
         pointer-events: auto;
-        transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0) !important;
         box-shadow: $material-shadow-2dp;
       }
     }
@@ -99,7 +99,7 @@
       }
 
       img {
-        width: 160px;
+        width: 100px;
         margin-bottom: 16px;
       }
     }
