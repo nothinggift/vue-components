@@ -13,7 +13,7 @@
 </template>
 
 <style lang="scss" scoped>
-  @import '../../../src/core/stylesheets/variables.scss';
+  @import '.././variables.scss';
 
   .code-block {
     overflow: hidden;
@@ -159,18 +159,18 @@
 </style>
 
 <script>
-  import highlight from 'highlight.js/lib/highlight.js';
-  import highlightSCSS from 'highlight.js/lib/languages/scss';
-  import highlightXML from 'highlight.js/lib/languages/xml';
-  import highlightJavascript from 'highlight.js/lib/languages/javascript';
-  import highlightBash from 'highlight.js/lib/languages/bash';
-  import Clipboard from 'clipboard';
-  import getClosestVueParent from '../../../src/core/utils/getClosestVueParent';
+  import highlight from 'highlight.js/lib/highlight.js'
+  import highlightSCSS from 'highlight.js/lib/languages/scss'
+  import highlightXML from 'highlight.js/lib/languages/xml'
+  import highlightJavascript from 'highlight.js/lib/languages/javascript'
+  import highlightBash from 'highlight.js/lib/languages/bash'
+  import Clipboard from 'clipboard'
+  import getClosestVueParent from '../../../src/core/utils/getClosestVueParent'
 
-  highlight.registerLanguage('scss', highlightSCSS);
-  highlight.registerLanguage('xml', highlightXML);
-  highlight.registerLanguage('javascript', highlightJavascript);
-  highlight.registerLanguage('bash', highlightBash);
+  highlight.registerLanguage('scss', highlightSCSS)
+  highlight.registerLanguage('xml', highlightXML)
+  highlight.registerLanguage('javascript', highlightJavascript)
+  highlight.registerLanguage('bash', highlightBash)
 
   export default {
     props: {
@@ -184,55 +184,55 @@
       showMessage: false
     }),
     methods: {
-      enableCopy() {
+      enableCopy () {
         const clipboard = new Clipboard(this.$refs.copy.$el, {
           target: () => this.$refs.block
-        });
+        })
 
         clipboard.on('success', (event) => {
-          event.clearSelection();
-          this.showMessage = true;
+          event.clearSelection()
+          this.showMessage = true
 
           window.setTimeout(() => {
-            this.showMessage = false;
-          }, 2000);
-        });
+            this.showMessage = false
+          }, 2000)
+        })
       },
-      reindent() {
-        const block = this.$refs.block;
-        let lines = block.textContent.split('\n');
-        let matches;
+      reindent () {
+        const block = this.$refs.block
+        let lines = block.textContent.split('\n')
+        let matches
 
         if (lines[0] === '') {
-          lines.shift();
+          lines.shift()
         }
 
-        let indentation = (matches = (/^[\s\t]+/).exec(lines[0])) !== null ? matches[0] : null;
+        let indentation = (matches = (/^[\s\t]+/).exec(lines[0])) !== null ? matches[0] : null
 
         if (indentation) {
-          lines = lines.map(function(line) {
-            line = line.replace(indentation, '');
+          lines = lines.map(function (line) {
+            line = line.replace(indentation, '')
 
-            return line.replace(/\t/g, '  ');
-          });
+            return line.replace(/\t/g, '  ')
+          })
 
-          block.textContent = lines.join('\n').trim();
+          block.textContent = lines.join('\n').trim()
         }
       }
     },
-    mounted() {
-      this.exampleBoxParent = getClosestVueParent(this.$parent, 'example-box');
-      this.reindent();
-      this.enableCopy();
+    mounted () {
+      this.exampleBoxParent = getClosestVueParent(this.$parent, 'example-box')
+      this.reindent()
+      this.enableCopy()
 
       if (this.exampleBoxParent) {
         this.exampleBoxParent.codeBlocks.push({
           lang: this.lang,
           code: this.$refs.block.innerHTML
-        });
+        })
       }
 
-      highlight.highlightBlock(this.$refs.block);
+      highlight.highlightBlock(this.$refs.block)
     }
-  };
+  }
 </script>

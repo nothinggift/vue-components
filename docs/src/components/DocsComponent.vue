@@ -8,7 +8,7 @@
       </section>
 
       <section class="api-documentation" v-if="$slots.api">
-        <h2 class="md-headline">API Options</h2>
+        <h2 class="md-headline">组件 API</h2>
 
         <slot name="api"></slot>
       </section>

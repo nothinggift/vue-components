@@ -85,28 +85,28 @@
       availableDocs: []
     }),
     methods: {
-      changeDocs() {
-        const location = window.location;
+      changeDocs () {
+        const location = window.location
 
         if (this.currentDocs === this.latest) {
-          window.location.href = location.origin + '/' + location.hash;
+          window.location.href = location.origin + '/' + location.hash
         } else {
-          window.location.href = location.origin + '/releases/v' + this.currentDocs + '/' + location.hash;
+          window.location.href = location.origin + '/releases/v' + this.currentDocs + '/' + location.hash
         }
       },
-      toggleSidenav() {
-        this.$root.toggleSidenav();
+      toggleSidenav () {
+        this.$root.toggleSidenav()
       },
-      setCurrentByLocation() {
-        let normalizedPathname = location.pathname.replace(/\/|releases\/v/g, '');
+      setCurrentByLocation () {
+        let normalizedPathname = window.location.pathname.replace(/\/|releases\/v/g, '')
 
         if (normalizedPathname && this.availableDocs.indexOf(normalizedPathname) >= 0) {
-          this.currentDocs = normalizedPathname;
+          this.currentDocs = normalizedPathname
         }
       }
     },
-    mounted() {
-      document.title = this.pageTitle + ' - Vue Material';
+    mounted () {
+      document.title = this.pageTitle + ' - Vue Material'
     }
-  };
+  }
 </script>

@@ -44,9 +44,9 @@
       name: String
     },
     computed: {
-      slotNames() {
-        return Object.keys(this.$slots);
+      slotNames () {
+        return Object.keys(this.$slots)
       }
     }
-  };
+  }
 </script>

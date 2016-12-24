@@ -127,7 +127,7 @@ var App = new Vue({
       codeString: ''
     }),
     methods: {
-      editOnCodepen() {
+      editOnCodepen () {
         let data = {
           title: 'Vue Material - ' + this.cardTitle,
           private: false,
@@ -147,27 +147,27 @@ var App = new Vue({
             'https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.3/vue.min.js',
             'https://cdn.rawgit.com/marcosmoura/vue-material/master/dist/vue-material.js'
           ].join(';')
-        };
+        }
 
         this.codeBlocks.forEach((block) => {
           if (block.lang === 'xml') {
-            let initialHtml = this.$refs.initialHtml.innerHTML;
+            let initialHtml = this.$refs.initialHtml.innerHTML
 
-            data.html = initialHtml.replace('### TEMPLATE ###', block.code);
+            data.html = initialHtml.replace('### TEMPLATE ###', block.code)
           } else if (block.lang === 'javascript') {
-            data.js = data.js += block.code;
+            data.js = data.js += block.code
           } else {
-            data.css = block.code;
+            data.css = block.code
           }
-        });
+        })
 
-        this.codeString = JSON.stringify(data).replace(/"/g, '&quot;').replace(/'/g, '&apos;');
+        this.codeString = JSON.stringify(data).replace(/"/g, '&quot;').replace(/'/g, '&apos;')
 
         this.$nextTick(() => {
-          console.log(this.$refs.initialJs);
-          this.$refs.form.submit();
-        });
+          console.log(this.$refs.initialJs)
+          this.$refs.form.submit()
+        })
       }
     }
-  };
+  }
 </script>

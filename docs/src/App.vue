@@ -13,6 +13,20 @@
           <md-list-item>
             <router-link exact to="/">说明</router-link>
           </md-list-item>
+          <md-list-item>
+            <span>组件</span>
+
+            <md-list-expand>
+              <md-list>
+                <md-list-item class="md-inset">
+                  <router-link exact to="/components/status-bar">状态栏</router-link>
+                </md-list-item>
+                <md-list-item class="md-inset">
+                  <router-link exact to="/components/gradients-bar">滚动渐变栏</router-link>
+                </md-list-item>
+              </md-list>
+            </md-list-expand>
+          </md-list-item>
         </md-list>
       </div>
     </md-sidenav>
@@ -24,7 +38,7 @@
 </template>
 
 <style lang="scss">
-  @import '../../src/core/stylesheets/variables.scss';
+  @import './variables.scss';
 
   $sizebar-size: 280px;
 
@@ -36,6 +50,7 @@
   body {
     height: 100%;
     overflow: hidden;
+    font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Source Han Sans CN Normal", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
   }
 
   body {
@@ -177,27 +192,26 @@
 </style>
 
 <script>
-
   export default {
-    data() {
+    data () {
       return {
         toolbar: true,
         theme: 'default',
         pageTitle: ''
-      };
+      }
     },
     computed: {
-      logo() {
-        return 'https://vuejs.org.cn/images/logo.png';
+      logo () {
+        return 'https://vuejs.org.cn/images/logo.png'
       }
     },
     methods: {
-      toggleSidenav() {
-        this.$refs['main-sidebar'].toggle();
+      toggleSidenav () {
+        this.$refs['main-sidebar'].toggle()
       },
-      closeSidenav() {
-        this.$refs['main-sidebar'].close();
+      closeSidenav () {
+        this.$refs['main-sidebar'].close()
       }
     }
-  };
+  }
 </script>

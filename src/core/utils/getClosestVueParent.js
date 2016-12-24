@@ -1,17 +1,17 @@
 let getClosestVueParent = ($parent, cssClass) => {
   if (!$parent || !$parent.$el) {
-    return false;
+    return false
   }
 
   if ($parent._uid === 0) {
-    return false;
+    return false
   }
 
   if ($parent.$el.classList.contains(cssClass)) {
-    return $parent;
+    return $parent
   }
 
-  return getClosestVueParent($parent.$parent, cssClass);
-};
+  return getClosestVueParent($parent.$parent, cssClass)
+}
 
-export default getClosestVueParent;
+export default getClosestVueParent
