@@ -13,7 +13,8 @@
       <div slot="api">
         <api-table name="StatusBar">
           <code-block lang="javascript">
-            import TkStatusBar from "vue-tk/tkStatusBar"
+            // 单独引用
+            import {TkStatusBar} from "vue-tk/components/tkStatusBar"
           </code-block>
           <md-table slot="properties">
             <md-table-header>
@@ -41,7 +42,8 @@
           <p>状态栏状态控制文件</p>
 
           <code-block lang="javascript">
-            import tkStatusBarState from "vue-tk/tkStatusBarState/state"
+            // 单独引用
+            import {tkStatusBarState} from "vue-tk/components/tkStatusBar"
           </code-block>
 
           <md-table slot="methods">

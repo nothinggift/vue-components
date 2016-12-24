@@ -248,6 +248,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	//
 	//
 	//
+	//
 
 	module.exports = exports['default'];
 
@@ -336,7 +337,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    ref: "bar",
 	    staticClass: "tk-gradients-header",
 	    style: (_vm.style)
-	  })
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	module.exports.render._withStripped = true
 	if (false) {

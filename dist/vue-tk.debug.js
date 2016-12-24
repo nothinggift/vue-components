@@ -585,6 +585,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	//
 	//
 	//
+	//
 
 	module.exports = exports['default'];
 
@@ -673,7 +674,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    ref: "bar",
 	    staticClass: "tk-gradients-header",
 	    style: (_vm.style)
-	  })
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	module.exports.render._withStripped = true
 	if (false) {
@@ -692,18 +693,24 @@ return /******/ (function(modules) { // webpackBootstrap
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
+	exports.tkStatusBarState = exports.tkStatusBar = undefined;
 	exports.default = install;
 	
 	var _tkStatusBar = __webpack_require__(13);
 	
 	var _tkStatusBar2 = _interopRequireDefault(_tkStatusBar);
 	
+	var _state = __webpack_require__(16);
+	
+	var _state2 = _interopRequireDefault(_state);
+	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
+	exports.tkStatusBar = _tkStatusBar2.default;
+	exports.tkStatusBarState = _state2.default;
 	function install(Vue) {
 	  Vue.component('tk-status-bar', Vue.extend(_tkStatusBar2.default));
 	}
-	module.exports = exports['default'];
 
 /***/ },
 /* 13 */
@@ -980,6 +987,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
+	exports.tools = undefined;
 	
 	var _core = __webpack_require__(1);
 	
@@ -993,12 +1001,23 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	var _tkGradientsBar2 = _interopRequireDefault(_tkGradientsBar);
 	
+	var _state = __webpack_require__(16);
+	
+	var _state2 = _interopRequireDefault(_state);
+	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var options = {
 	  Core: _core2.default,
 	  tkStatusBar: _tkStatusBar2.default,
 	  tkGradientsBar: _tkGradientsBar2.default
+	};
+	
+	// 工具方法
+	
+	
+	var tools = {
+	  tkStatusBarState: _state2.default
 	};
 	
 	options.install = function (Vue) {
@@ -1014,7 +1033,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	window.VueComponents = options;
 	
 	exports.default = options;
-	module.exports = exports['default'];
+	exports.tools = tools;
 
 /***/ }
 /******/ ])

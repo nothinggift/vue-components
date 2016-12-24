@@ -1,5 +1,6 @@
 <template>
     <div class="tk-gradients-header" :style="style" ref="bar">
+      <slot></slot>
     </div>
 </template>
 

@@ -2,349 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878f907e-d7a4-4779-a41c-6b0fa3284b44" name="默认" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-sky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-weather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/codepen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-256x256.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-384x384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-512x512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-blue-grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-cyan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-indigo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/marcosmoura.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/vue-material-example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.0c3e3b6c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.10916f44.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.1500a5cc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.344187f3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.396c741c.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.478df4df.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.656c9671.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.6e3a4139.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.93264ef9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.9a483525.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.abda760c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.02098a2a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.802e46b5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.c9507d6c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.d93d0eda.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.e6d9ceed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.f5d76790.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-sky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-weather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/codepen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-256x256.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-384x384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-512x512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-blue-grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-cyan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-indigo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/marcosmoura.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/vue-material-example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/docs.2ba4441e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/docs.5042adb5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/manifest.4b64881f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/vendor.2044b105.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/versions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-sky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-weather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/codepen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-256x256.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-384x384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-512x512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-blue-grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-cyan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-indigo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/marcosmoura.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/vue-material-example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/docs.0c76b7b3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/docs.44d47a49.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/manifest.5932aba9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-sky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-weather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/codepen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-256x256.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-384x384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-512x512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-blue-grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-cyan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-indigo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/marcosmoura.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/vue-material-example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/docs.2ba4441e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/docs.5042adb5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/manifest.4b64881f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/vendor.2044b105.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/versions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/vendor.2044b105.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/versions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/versions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.debug.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.0f7945a0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.cbb5abcb.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/webpack/prod-lib.js" afterPath="$PROJECT_DIR$/build/webpack/prod-lib.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.js" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.css" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.js" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.js" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/docs/index.html" afterPath="$PROJECT_DIR$/dist/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/vue-tk.css" afterPath="$PROJECT_DIR$/dist/vue-tk.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/vue-tk.debug.js" afterPath="$PROJECT_DIR$/dist/vue-tk.debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/vue-tk.debug.js.map" afterPath="$PROJECT_DIR$/dist/vue-tk.debug.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/vue-tk.js" afterPath="$PROJECT_DIR$/dist/vue-tk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue" afterPath="$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue" afterPath="$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tkStatusBar/index.js" afterPath="$PROJECT_DIR$/src/components/tkStatusBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -362,83 +40,105 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StatusBar.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatusBar.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+            <state relative-caret-position="76">
+              <caret line="16" column="69" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
               <folding>
-                <element signature="e#4781#4785#0" expanded="true" />
-                <element signature="e#4798#4802#0" expanded="true" />
-                <element signature="e#4802#4806#0" expanded="true" />
-                <element signature="e#4820#4824#0" expanded="true" />
-                <element signature="e#4839#4843#0" expanded="true" />
-                <element signature="e#4860#4866#0" expanded="true" />
-                <element signature="e#4870#4876#0" expanded="true" />
-                <element signature="e#4876#4880#0" expanded="true" />
-                <element signature="e#4882#4886#0" expanded="true" />
-                <element signature="e#4896#4900#0" expanded="true" />
-                <element signature="e#4915#4919#0" expanded="true" />
-                <element signature="e#4936#4942#0" expanded="true" />
-                <element signature="e#4946#4952#0" expanded="true" />
-                <element signature="e#4952#4956#0" expanded="true" />
-                <element signature="e#4958#4962#0" expanded="true" />
-                <element signature="e#4972#4976#0" expanded="true" />
-                <element signature="e#4991#4995#0" expanded="true" />
-                <element signature="e#5012#5018#0" expanded="true" />
-                <element signature="e#5024#5030#0" expanded="true" />
-                <element signature="e#5030#5034#0" expanded="true" />
-                <element signature="e#5036#5040#0" expanded="true" />
-                <element signature="e#5050#5054#0" expanded="true" />
-                <element signature="e#5069#5073#0" expanded="true" />
-                <element signature="e#5090#5096#0" expanded="true" />
-                <element signature="e#5102#5107#0" expanded="true" />
-                <element signature="e#5112#5117#0" expanded="true" />
-                <element signature="e#5118#5124#0" expanded="true" />
+                <element signature="e#4836#4840#0" expanded="true" />
+                <element signature="e#4853#4857#0" expanded="true" />
+                <element signature="e#4857#4861#0" expanded="true" />
+                <element signature="e#4875#4879#0" expanded="true" />
+                <element signature="e#4894#4898#0" expanded="true" />
+                <element signature="e#4915#4921#0" expanded="true" />
+                <element signature="e#4925#4931#0" expanded="true" />
+                <element signature="e#4931#4935#0" expanded="true" />
+                <element signature="e#4937#4941#0" expanded="true" />
+                <element signature="e#4951#4955#0" expanded="true" />
+                <element signature="e#4970#4974#0" expanded="true" />
+                <element signature="e#4991#4997#0" expanded="true" />
+                <element signature="e#5001#5007#0" expanded="true" />
+                <element signature="e#5007#5011#0" expanded="true" />
+                <element signature="e#5013#5017#0" expanded="true" />
+                <element signature="e#5027#5031#0" expanded="true" />
+                <element signature="e#5046#5050#0" expanded="true" />
+                <element signature="e#5067#5073#0" expanded="true" />
+                <element signature="e#5079#5085#0" expanded="true" />
+                <element signature="e#5085#5089#0" expanded="true" />
+                <element signature="e#5091#5095#0" expanded="true" />
+                <element signature="e#5105#5109#0" expanded="true" />
                 <element signature="e#5124#5128#0" expanded="true" />
-                <element signature="e#5130#5134#0" expanded="true" />
-                <element signature="e#5144#5148#0" expanded="true" />
-                <element signature="e#5163#5167#0" expanded="true" />
-                <element signature="e#5184#5190#0" expanded="true" />
-                <element signature="e#5196#5201#0" expanded="true" />
-                <element signature="e#5205#5210#0" expanded="true" />
-                <element signature="e#5211#5217#0" expanded="true" />
-                <element signature="e#5217#5221#0" expanded="true" />
-                <element signature="e#5223#5227#0" expanded="true" />
-                <element signature="e#5237#5241#0" expanded="true" />
-                <element signature="e#5256#5260#0" expanded="true" />
-                <element signature="e#5277#5283#0" expanded="true" />
-                <element signature="e#5289#5294#0" expanded="true" />
-                <element signature="e#5297#5302#0" expanded="true" />
-                <element signature="e#5303#5309#0" expanded="true" />
-                <element signature="e#5309#5313#0" expanded="true" />
-                <element signature="e#5315#5319#0" expanded="true" />
-                <element signature="e#5329#5333#0" expanded="true" />
-                <element signature="e#5348#5352#0" expanded="true" />
-                <element signature="e#5369#5375#0" expanded="true" />
-                <element signature="e#5381#5386#0" expanded="true" />
-                <element signature="e#5390#5395#0" expanded="true" />
-                <element signature="e#5396#5402#0" expanded="true" />
-                <element signature="e#5402#5406#0" expanded="true" />
-                <element signature="e#5408#5412#0" expanded="true" />
-                <element signature="e#5422#5426#0" expanded="true" />
-                <element signature="e#5441#5445#0" expanded="true" />
-                <element signature="e#5462#5468#0" expanded="true" />
-                <element signature="e#5473#5479#0" expanded="true" />
-                <element signature="e#5479#5483#0" expanded="true" />
-                <element signature="e#5485#5489#0" expanded="true" />
-                <element signature="e#5499#5503#0" expanded="true" />
+                <element signature="e#5145#5151#0" expanded="true" />
+                <element signature="e#5157#5162#0" expanded="true" />
+                <element signature="e#5167#5172#0" expanded="true" />
+                <element signature="e#5173#5179#0" expanded="true" />
+                <element signature="e#5179#5183#0" expanded="true" />
+                <element signature="e#5185#5189#0" expanded="true" />
+                <element signature="e#5199#5203#0" expanded="true" />
+                <element signature="e#5218#5222#0" expanded="true" />
+                <element signature="e#5239#5245#0" expanded="true" />
+                <element signature="e#5251#5256#0" expanded="true" />
+                <element signature="e#5260#5265#0" expanded="true" />
+                <element signature="e#5266#5272#0" expanded="true" />
+                <element signature="e#5272#5276#0" expanded="true" />
+                <element signature="e#5278#5282#0" expanded="true" />
+                <element signature="e#5292#5296#0" expanded="true" />
+                <element signature="e#5311#5315#0" expanded="true" />
+                <element signature="e#5332#5338#0" expanded="true" />
+                <element signature="e#5344#5349#0" expanded="true" />
+                <element signature="e#5352#5357#0" expanded="true" />
+                <element signature="e#5358#5364#0" expanded="true" />
+                <element signature="e#5364#5368#0" expanded="true" />
+                <element signature="e#5370#5374#0" expanded="true" />
+                <element signature="e#5384#5388#0" expanded="true" />
+                <element signature="e#5403#5407#0" expanded="true" />
+                <element signature="e#5424#5430#0" expanded="true" />
+                <element signature="e#5436#5441#0" expanded="true" />
+                <element signature="e#5445#5450#0" expanded="true" />
+                <element signature="e#5451#5457#0" expanded="true" />
+                <element signature="e#5457#5461#0" expanded="true" />
+                <element signature="e#5463#5467#0" expanded="true" />
+                <element signature="e#5477#5481#0" expanded="true" />
+                <element signature="e#5496#5500#0" expanded="true" />
+                <element signature="e#5517#5523#0" expanded="true" />
+                <element signature="e#5528#5534#0" expanded="true" />
+                <element signature="e#5534#5538#0" expanded="true" />
+                <element signature="e#5540#5544#0" expanded="true" />
+                <element signature="e#5554#5558#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="57">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -446,11 +146,33 @@
       <file leaf-file-name="prod-lib.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/webpack/prod-lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="262">
+              <caret line="23" column="112" lean-forward="false" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="112" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="state.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/state.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -468,8 +190,8 @@
       <file leaf-file-name="tkGradientsBar.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -480,41 +202,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradientsBar.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/src/pages/components/GradientsBar.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
-              <folding>
-                <element signature="e#4262#4266#0" expanded="true" />
-                <element signature="e#4306#4312#0" expanded="true" />
-                <element signature="e#4317#4323#0" expanded="true" />
-                <element signature="e#4352#4358#0" expanded="true" />
-                <element signature="e#4368#4374#0" expanded="true" />
-                <element signature="e#4401#4407#0" expanded="true" />
-                <element signature="e#4415#4421#0" expanded="true" />
-                <element signature="e#4443#4449#0" expanded="true" />
-                <element signature="e#4452#4458#0" expanded="true" />
-                <element signature="e#4486#4492#0" expanded="true" />
-                <element signature="e#4501#4507#0" expanded="true" />
-                <element signature="e#4507#4511#0" expanded="true" />
-                <element signature="e#4526#4530#0" expanded="true" />
-                <element signature="e#4547#4551#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/utils.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -557,7 +244,6 @@
         <option value="$PROJECT_DIR$/src/components/tkGradientsHeader/tkGradientsHeader.vue" />
         <option value="$PROJECT_DIR$/src/components/tkStatusBar/state.js" />
         <option value="$PROJECT_DIR$/src/components/tkStatusBar/StatusBar.vue" />
-        <option value="$PROJECT_DIR$/src/components/tkStatusBar/index.js" />
         <option value="$PROJECT_DIR$/docs/src/config.js" />
         <option value="$PROJECT_DIR$/src/core/stylesheets/base.scss" />
         <option value="$PROJECT_DIR$/src/core/index.js" />
@@ -572,15 +258,16 @@
         <option value="$PROJECT_DIR$/docs/src/components/DocsComponent.vue" />
         <option value="$PROJECT_DIR$/docs/src/routes.js" />
         <option value="$PROJECT_DIR$/docs/src/App.vue" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/tkGradientsBar/index.js" />
         <option value="$PROJECT_DIR$/src/components/tkGradientsBar/utils.js" />
-        <option value="$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue" />
-        <option value="$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue" />
         <option value="$PROJECT_DIR$/docs/src/pages/components/GradientsBar.vue" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/build/webpack/prod-lib.js" />
+        <option value="$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue" />
+        <option value="$PROJECT_DIR$/src/components/tkStatusBar/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue" />
       </list>
     </option>
   </component>
@@ -596,9 +283,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="752" />
-    <option name="width" value="1175" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="添加" />
@@ -940,25 +628,25 @@
       <workItem from="1482312318856" duration="2091000" />
       <workItem from="1482391054158" duration="7167000" />
       <workItem from="1482474620676" duration="19597000" />
-      <workItem from="1482540659949" duration="19990000" />
+      <workItem from="1482540659949" duration="24500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50977000" />
+    <option name="totallyTimeSpent" value="55487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="752" y="0" width="1175" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2005277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12012645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24205914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23969631" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1089,6 +777,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,31 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/state.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1267,44 +933,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/tkStatusBar.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1332,75 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
-          <folding>
-            <element signature="e#4781#4785#0" expanded="true" />
-            <element signature="e#4798#4802#0" expanded="true" />
-            <element signature="e#4802#4806#0" expanded="true" />
-            <element signature="e#4820#4824#0" expanded="true" />
-            <element signature="e#4839#4843#0" expanded="true" />
-            <element signature="e#4860#4866#0" expanded="true" />
-            <element signature="e#4870#4876#0" expanded="true" />
-            <element signature="e#4876#4880#0" expanded="true" />
-            <element signature="e#4882#4886#0" expanded="true" />
-            <element signature="e#4896#4900#0" expanded="true" />
-            <element signature="e#4915#4919#0" expanded="true" />
-            <element signature="e#4936#4942#0" expanded="true" />
-            <element signature="e#4946#4952#0" expanded="true" />
-            <element signature="e#4952#4956#0" expanded="true" />
-            <element signature="e#4958#4962#0" expanded="true" />
-            <element signature="e#4972#4976#0" expanded="true" />
-            <element signature="e#4991#4995#0" expanded="true" />
-            <element signature="e#5012#5018#0" expanded="true" />
-            <element signature="e#5024#5030#0" expanded="true" />
-            <element signature="e#5030#5034#0" expanded="true" />
-            <element signature="e#5036#5040#0" expanded="true" />
-            <element signature="e#5050#5054#0" expanded="true" />
-            <element signature="e#5069#5073#0" expanded="true" />
-            <element signature="e#5090#5096#0" expanded="true" />
-            <element signature="e#5102#5107#0" expanded="true" />
-            <element signature="e#5112#5117#0" expanded="true" />
-            <element signature="e#5118#5124#0" expanded="true" />
-            <element signature="e#5124#5128#0" expanded="true" />
-            <element signature="e#5130#5134#0" expanded="true" />
-            <element signature="e#5144#5148#0" expanded="true" />
-            <element signature="e#5163#5167#0" expanded="true" />
-            <element signature="e#5184#5190#0" expanded="true" />
-            <element signature="e#5196#5201#0" expanded="true" />
-            <element signature="e#5205#5210#0" expanded="true" />
-            <element signature="e#5211#5217#0" expanded="true" />
-            <element signature="e#5217#5221#0" expanded="true" />
-            <element signature="e#5223#5227#0" expanded="true" />
-            <element signature="e#5237#5241#0" expanded="true" />
-            <element signature="e#5256#5260#0" expanded="true" />
-            <element signature="e#5277#5283#0" expanded="true" />
-            <element signature="e#5289#5294#0" expanded="true" />
-            <element signature="e#5297#5302#0" expanded="true" />
-            <element signature="e#5303#5309#0" expanded="true" />
-            <element signature="e#5309#5313#0" expanded="true" />
-            <element signature="e#5315#5319#0" expanded="true" />
-            <element signature="e#5329#5333#0" expanded="true" />
-            <element signature="e#5348#5352#0" expanded="true" />
-            <element signature="e#5369#5375#0" expanded="true" />
-            <element signature="e#5381#5386#0" expanded="true" />
-            <element signature="e#5390#5395#0" expanded="true" />
-            <element signature="e#5396#5402#0" expanded="true" />
-            <element signature="e#5402#5406#0" expanded="true" />
-            <element signature="e#5408#5412#0" expanded="true" />
-            <element signature="e#5422#5426#0" expanded="true" />
-            <element signature="e#5441#5445#0" expanded="true" />
-            <element signature="e#5462#5468#0" expanded="true" />
-            <element signature="e#5473#5479#0" expanded="true" />
-            <element signature="e#5479#5483#0" expanded="true" />
-            <element signature="e#5485#5489#0" expanded="true" />
-            <element signature="e#5499#5503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1411,19 +974,148 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/webpack/prod-lib.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="262">
+          <caret line="23" column="112" lean-forward="false" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="112" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/tkGradientsBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tkGradientsBar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/tkStatusBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tkStatusBar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="69" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding>
+            <element signature="e#4836#4840#0" expanded="true" />
+            <element signature="e#4853#4857#0" expanded="true" />
+            <element signature="e#4857#4861#0" expanded="true" />
+            <element signature="e#4875#4879#0" expanded="true" />
+            <element signature="e#4894#4898#0" expanded="true" />
+            <element signature="e#4915#4921#0" expanded="true" />
+            <element signature="e#4925#4931#0" expanded="true" />
+            <element signature="e#4931#4935#0" expanded="true" />
+            <element signature="e#4937#4941#0" expanded="true" />
+            <element signature="e#4951#4955#0" expanded="true" />
+            <element signature="e#4970#4974#0" expanded="true" />
+            <element signature="e#4991#4997#0" expanded="true" />
+            <element signature="e#5001#5007#0" expanded="true" />
+            <element signature="e#5007#5011#0" expanded="true" />
+            <element signature="e#5013#5017#0" expanded="true" />
+            <element signature="e#5027#5031#0" expanded="true" />
+            <element signature="e#5046#5050#0" expanded="true" />
+            <element signature="e#5067#5073#0" expanded="true" />
+            <element signature="e#5079#5085#0" expanded="true" />
+            <element signature="e#5085#5089#0" expanded="true" />
+            <element signature="e#5091#5095#0" expanded="true" />
+            <element signature="e#5105#5109#0" expanded="true" />
+            <element signature="e#5124#5128#0" expanded="true" />
+            <element signature="e#5145#5151#0" expanded="true" />
+            <element signature="e#5157#5162#0" expanded="true" />
+            <element signature="e#5167#5172#0" expanded="true" />
+            <element signature="e#5173#5179#0" expanded="true" />
+            <element signature="e#5179#5183#0" expanded="true" />
+            <element signature="e#5185#5189#0" expanded="true" />
+            <element signature="e#5199#5203#0" expanded="true" />
+            <element signature="e#5218#5222#0" expanded="true" />
+            <element signature="e#5239#5245#0" expanded="true" />
+            <element signature="e#5251#5256#0" expanded="true" />
+            <element signature="e#5260#5265#0" expanded="true" />
+            <element signature="e#5266#5272#0" expanded="true" />
+            <element signature="e#5272#5276#0" expanded="true" />
+            <element signature="e#5278#5282#0" expanded="true" />
+            <element signature="e#5292#5296#0" expanded="true" />
+            <element signature="e#5311#5315#0" expanded="true" />
+            <element signature="e#5332#5338#0" expanded="true" />
+            <element signature="e#5344#5349#0" expanded="true" />
+            <element signature="e#5352#5357#0" expanded="true" />
+            <element signature="e#5358#5364#0" expanded="true" />
+            <element signature="e#5364#5368#0" expanded="true" />
+            <element signature="e#5370#5374#0" expanded="true" />
+            <element signature="e#5384#5388#0" expanded="true" />
+            <element signature="e#5403#5407#0" expanded="true" />
+            <element signature="e#5424#5430#0" expanded="true" />
+            <element signature="e#5436#5441#0" expanded="true" />
+            <element signature="e#5445#5450#0" expanded="true" />
+            <element signature="e#5451#5457#0" expanded="true" />
+            <element signature="e#5457#5461#0" expanded="true" />
+            <element signature="e#5463#5467#0" expanded="true" />
+            <element signature="e#5477#5481#0" expanded="true" />
+            <element signature="e#5496#5500#0" expanded="true" />
+            <element signature="e#5517#5523#0" expanded="true" />
+            <element signature="e#5528#5534#0" expanded="true" />
+            <element signature="e#5534#5538#0" expanded="true" />
+            <element signature="e#5540#5544#0" expanded="true" />
+            <element signature="e#5554#5558#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
