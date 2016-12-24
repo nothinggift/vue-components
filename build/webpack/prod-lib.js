@@ -16,7 +16,7 @@ const componentsPath = 'src/components';
 const components = getDirectories(path.resolve(__dirname, '../../', componentsPath));
 
 baseConfig.entry = {
-  'vue-components': ['./src/index.js'],
+  'vue-tk': ['./src/index.js'],
   'components/mdCore/index': ['./src/core']
 };
 
@@ -28,7 +28,7 @@ export default merge(baseConfig, {
   output: {
     path: config.rootPath,
     filename: '[name].js',
-    library: 'VueComponents',
+    library: 'VueTk',
     libraryTarget: 'umd'
   },
   vue: {

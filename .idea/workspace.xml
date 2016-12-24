@@ -2,7 +2,348 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878f907e-d7a4-4779-a41c-6b0fa3284b44" name="默认" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdAvatar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBackdrop/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdBottomBar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButton/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdButtonToggle/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCard/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCheckbox/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDialog/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdDivider/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdIcon/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdInputContainer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdLayout/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdList/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdMenu/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdRadio/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSelect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSidenav/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSpinner/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSubheader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdSwitch/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTable/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTabs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdToolbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdTooltip/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/components/mdWhiteframe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-sky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/card-weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/codepen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-384x384.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-512x512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-194x194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/favicon/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-blue-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-cyan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-indigo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-purple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/logo-vue-material-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/marcosmoura.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/assets/vue-material-example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.0c3e3b6c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.10916f44.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.1500a5cc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.344187f3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.396c741c.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.478df4df.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.656c9671.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.6e3a4139.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.93264ef9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.9a483525.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/docs.abda760c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.02098a2a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.802e46b5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.c9507d6c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.d93d0eda.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.e6d9ceed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/manifest.f5d76790.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-sky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/card-weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/codepen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-384x384.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-512x512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-194x194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/favicon/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-blue-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-cyan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-indigo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/logo-vue-material-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/marcosmoura.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/assets/vue-material-example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/docs.2ba4441e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/docs.5042adb5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/manifest.4b64881f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/vendor.2044b105.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.4.3/versions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-sky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/card-weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/codepen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-384x384.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-512x512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-194x194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/favicon/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-blue-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-cyan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-indigo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-purple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/logo-vue-material-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/marcosmoura.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/assets/vue-material-example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/docs.0c76b7b3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/docs.44d47a49.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/manifest.5932aba9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-sky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/card-weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/codepen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-384x384.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-512x512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-194x194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/favicon/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-blue-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-cyan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-indigo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/logo-vue-material-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/marcosmoura.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/assets/vue-material-example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/docs.2ba4441e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/docs.5042adb5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/manifest.4b64881f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/vendor.2044b105.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/releases/v0.4.3/versions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/vendor.2044b105.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/releases/v0.5.0/versions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/docs/versions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-components.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.debug.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/vue-material.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/webpack/prod-lib.js" afterPath="$PROJECT_DIR$/build/webpack/prod-lib.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.debug.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/mdCore/index.js" afterPath="$PROJECT_DIR$/dist/components/mdCore/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.debug.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.js" afterPath="$PROJECT_DIR$/dist/components/tkGradientsBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js.map" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.debug.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/components/tkStatusBar/index.js" afterPath="$PROJECT_DIR$/dist/components/tkStatusBar/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -95,19 +436,21 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="494">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="prod-lib.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack/prod-lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="329">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +538,7 @@
       <find>os</find>
       <find>this.</find>
       <find>styleColor</find>
+      <find>components</find>
     </findStrings>
     <dirStrings>
       <dir>E:\h5\vue-components\docs</dir>
@@ -235,6 +579,7 @@
         <option value="$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue" />
         <option value="$PROJECT_DIR$/docs/src/pages/components/GradientsBar.vue" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build/webpack/prod-lib.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -464,6 +809,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -472,7 +849,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cpf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-material" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
@@ -563,12 +940,12 @@
       <workItem from="1482312318856" duration="2091000" />
       <workItem from="1482391054158" duration="7167000" />
       <workItem from="1482474620676" duration="19597000" />
-      <workItem from="1482540659949" duration="18093000" />
+      <workItem from="1482540659949" duration="19990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49080000" />
+    <option name="totallyTimeSpent" value="50977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="752" y="0" width="1175" height="1047" extended-state="0" />
@@ -581,7 +958,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12157722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24205914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -604,13 +981,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/src/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/src/pages/Introduction.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -939,6 +1309,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/src/pages/components/GradientsBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+          <folding>
+            <element signature="e#4262#4266#0" expanded="true" />
+            <element signature="e#4306#4312#0" expanded="true" />
+            <element signature="e#4317#4323#0" expanded="true" />
+            <element signature="e#4352#4358#0" expanded="true" />
+            <element signature="e#4368#4374#0" expanded="true" />
+            <element signature="e#4401#4407#0" expanded="true" />
+            <element signature="e#4415#4421#0" expanded="true" />
+            <element signature="e#4443#4449#0" expanded="true" />
+            <element signature="e#4452#4458#0" expanded="true" />
+            <element signature="e#4486#4492#0" expanded="true" />
+            <element signature="e#4501#4507#0" expanded="true" />
+            <element signature="e#4507#4511#0" expanded="true" />
+            <element signature="e#4526#4530#0" expanded="true" />
+            <element signature="e#4547#4551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/src/pages/components/StatusBar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -1008,29 +1401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/src/pages/components/GradientsBar.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
-          <folding>
-            <element signature="e#4262#4266#0" expanded="true" />
-            <element signature="e#4306#4312#0" expanded="true" />
-            <element signature="e#4317#4323#0" expanded="true" />
-            <element signature="e#4352#4358#0" expanded="true" />
-            <element signature="e#4368#4374#0" expanded="true" />
-            <element signature="e#4401#4407#0" expanded="true" />
-            <element signature="e#4415#4421#0" expanded="true" />
-            <element signature="e#4443#4449#0" expanded="true" />
-            <element signature="e#4452#4458#0" expanded="true" />
-            <element signature="e#4486#4492#0" expanded="true" />
-            <element signature="e#4501#4507#0" expanded="true" />
-            <element signature="e#4507#4511#0" expanded="true" />
-            <element signature="e#4526#4530#0" expanded="true" />
-            <element signature="e#4547#4551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1039,10 +1409,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack/prod-lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="494">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding />
         </state>
       </provider>
