@@ -14,7 +14,7 @@
         <api-table name="StatusBar">
           <code-block lang="javascript">
             // 单独引用
-            import {TkStatusBar} from "vue-tk/dist/components/tkStatusBar"
+            import TkStatusBar from 'vue-tk/dist/components/tkStatusBar'
           </code-block>
           <md-table slot="properties">
             <md-table-header>
@@ -43,9 +43,9 @@
 
           <code-block lang="javascript">
             // 单独引用
-            import {tkStatusBarState} from "vue-tk/dist/components/tkStatusBar"
+            import {tkStatusBarState} from 'vue-tk/dist/components/tkStatusBar'
             // 如果已经全局引用vue-tk
-            import {tkStatusBarState} from "vue-tk"
+            import {tkStatusBarState} from 'vue-tk'
           </code-block>
 
           <md-table slot="methods">
