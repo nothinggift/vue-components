@@ -1,32 +1,32 @@
-import Core from './core'
-import tkStatusBar from './components/tkStatusBar'
-import tkGradientsBar from './components/tkGradientsBar'
-
-// 工具方法
-import tkStatusBarState from './components/tkStatusBar/state'
+// import Core from './core'
+import * as tkStatusBar from './components/tkStatusBar'
+import * as tkGradientsBar from './components/tkGradientsBar'
 
 const options = {
-  Core,
+  // Core,
   tkStatusBar,
   tkGradientsBar
 }
 
-const tools = {
-  tkStatusBarState
+const components = {
 }
 
-options.install = (Vue) => {
+components.install = (Vue) => {
   for (let component in options) {
-    const componentInstaller = options[component]
+    for (let item in options[component]) {
+      if (item === 'install') {
+        const componentInstaller = options[component].install
 
-    if (componentInstaller && component !== 'install') {
-      Vue.use(componentInstaller)
+        if (componentInstaller) {
+          Vue.use(componentInstaller)
+        }
+      } else {
+        components[item] = options[component][item]
+      }
     }
   }
 }
 
-window.VueComponents = options
+window.VueTk = components
 
-export default options
-
-export {tools}
+export default components

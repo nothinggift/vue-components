@@ -71,7 +71,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-	exports.default = install;
+	exports.install = exports.default = undefined;
 	
 	var _tkGradientsBar = __webpack_require__(7);
 	
@@ -79,10 +79,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-	function install(Vue) {
+	var install = function install(Vue) {
 	  Vue.component('tk-gradients-bar', Vue.extend(_tkGradientsBar2.default));
-	}
-	module.exports = exports['default'];
+	};
+	
+	exports.default = _tkGradientsBar2.default;
+	exports.install = install;
 
 /***/ },
 /* 7 */

@@ -8,7 +8,7 @@
       <div slot="api">
         <api-table name="TkGradientsBar">
           <code-block lang="javascript">
-            import TkGradientsBar from "vue-tk/tkGradientsBar"
+            import TkGradientsBar from "vue-tk/components/tkGradientsBar"
           </code-block>
           <md-table slot="properties">
             <md-table-header>

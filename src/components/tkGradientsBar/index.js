@@ -1,5 +1,7 @@
-import tkGradientsBar from './tkGradientsBar.vue'
+import TkGradientsBar from './tkGradientsBar.vue'
 
-export default function install (Vue) {
-  Vue.component('tk-gradients-bar', Vue.extend(tkGradientsBar))
+const install = function (Vue) {
+  Vue.component('tk-gradients-bar', Vue.extend(TkGradientsBar))
 }
+
+export {TkGradientsBar as default, install}

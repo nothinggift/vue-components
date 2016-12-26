@@ -77,8 +77,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-	exports.tkStatusBarState = exports.tkStatusBar = undefined;
-	exports.default = install;
+	exports.tkStatusBarState = exports.install = exports.default = undefined;
 	
 	var _tkStatusBar = __webpack_require__(13);
 	
@@ -90,11 +89,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-	exports.tkStatusBar = _tkStatusBar2.default;
-	exports.tkStatusBarState = _state2.default;
-	function install(Vue) {
+	var install = function install(Vue) {
 	  Vue.component('tk-status-bar', Vue.extend(_tkStatusBar2.default));
-	}
+	};
+	
+	exports.default = _tkStatusBar2.default;
+	exports.install = install;
+	exports.tkStatusBarState = _state2.default;
 
 /***/ },
 /* 13 */
@@ -224,6 +225,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  _color: null,
 	  _show: true,
 	  _space: true,
+	  _height: null,
 	  setClass: function setClass(cls) {
 	    this._class = cls;
 	  },
@@ -241,7 +243,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    this._show = this._space = true;
 	  },
 	  height: function height() {
-	    if (!this._height) {
+	    if (this._height === null) {
 	      if (_util2.default.plus && window.plus.navigator.isImmersedStatusbar()) {
 	        this._height = window.plus.navigator.getStatusbarHeight();
 	      } else {

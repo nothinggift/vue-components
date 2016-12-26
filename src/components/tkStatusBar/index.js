@@ -1,8 +1,8 @@
-import tkStatusBar from './tkStatusBar.vue'
+import TkStatusBar from './tkStatusBar.vue'
 import tkStatusBarState from './state.js'
 
-export {tkStatusBar, tkStatusBarState}
-
-export default function install (Vue) {
-  Vue.component('tk-status-bar', Vue.extend(tkStatusBar))
+const install = function (Vue) {
+  Vue.component('tk-status-bar', Vue.extend(TkStatusBar))
 }
+
+export {TkStatusBar as default, install, tkStatusBarState}

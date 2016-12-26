@@ -8,6 +8,7 @@ const Rxports = {
   _color: null,
   _show: true,
   _space: true,
+  _height: null,
   setClass: function (cls) {
     this._class = cls
   },
@@ -25,7 +26,7 @@ const Rxports = {
     this._show = this._space = true
   },
   height: function () {
-    if (!this._height) {
+    if (this._height === null) {
       if (os.plus && window.plus.navigator.isImmersedStatusbar()) {
         this._height = window.plus.navigator.getStatusbarHeight()
       } else {
