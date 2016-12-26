@@ -44,6 +44,12 @@ export default {
     }
     this.bind()
   },
+  activated: function () {
+    this.bind()
+  },
+  deactivated: function () {
+    this.unbind()
+  },
   beforeDestroy: function () {
     this.unbind()
   },
@@ -54,6 +60,7 @@ export default {
       }
       this.bindContainer = this.container ? this.container : this.$el.parentNode
       this.bindContainer.addEventListener('scroll', this.scrollHandler, false)
+      this.scrollHandler()
     },
     unbind: function () {
       if (this.bindContainer) {
@@ -62,7 +69,7 @@ export default {
       }
     },
     scrollHandler: function (e) {
-      let scrollTop = e.target.scrollTop
+      let scrollTop = e.target === window ? window.pageYOffset : e.target.scrollTop
       if (scrollTop <= this.start) {
         this.percentage = 0
       } else if (scrollTop >= this.end) {

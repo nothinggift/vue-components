@@ -449,7 +449,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// module
-	exports.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+	exports.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 	
 	// exports
 
@@ -508,6 +508,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    }
 	    this.bind();
 	  },
+	  activated: function activated() {
+	    this.bind();
+	  },
+	  deactivated: function deactivated() {
+	    this.unbind();
+	  },
 	  beforeDestroy: function beforeDestroy() {
 	    this.unbind();
 	  },
@@ -518,6 +524,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      }
 	      this.bindContainer = this.container ? this.container : this.$el.parentNode;
 	      this.bindContainer.addEventListener('scroll', this.scrollHandler, false);
+	      this.scrollHandler();
 	    },
 	    unbind: function unbind() {
 	      if (this.bindContainer) {
@@ -526,7 +533,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      }
 	    },
 	    scrollHandler: function scrollHandler(e) {
-	      var scrollTop = e.target.scrollTop;
+	      var scrollTop = e.target === window ? window.pageYOffset : e.target.scrollTop;
 	      if (scrollTop <= this.start) {
 	        this.percentage = 0;
 	      } else if (scrollTop >= this.end) {
