@@ -8,6 +8,7 @@
       <div slot="api">
         <api-table name="TkGradientsBar">
           <code-block lang="javascript">
+            // 单独引用
             import TkGradientsBar from 'vue-tk/components/tkGradientsBar'
           </code-block>
           <md-table slot="properties">
@@ -75,6 +76,24 @@
             </md-table-header>
           </md-table>
         </api-table>
+      </div>
+
+      <div slot="api">
+        <api-table name="tkGradients">
+          <p>用来计算两个颜色的中间色，支持透明色<code>transparent</code>,16位色：<code>#FFFFFF</code>,rgb色：<code>rgb(255,255,255)</code>,rgba色：<code>rgba(255,255,255,0)</code></p>
+          <code-block lang="javascript">
+            // 单独引用
+            import {tkGradients} from 'vue-tk/components/tkGradientsBar'
+            // 如果已经全局引用vue-tk
+            import {tkGradients} from 'vue-tk'
+
+            //使用
+            // startColor 初始颜色
+            // endColor 目标颜色
+            // percentage 百分比，最小0，最大100
+            tkGradients(startColor, endColor, percentage)
+            // return 中间色
+          </code-block>
       </div>
 
       <div slot="example">

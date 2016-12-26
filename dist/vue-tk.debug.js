@@ -347,11 +347,15 @@ return /******/ (function(modules) { // webpackBootstrap
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-	exports.install = exports.default = undefined;
+	exports.tkGradients = exports.install = exports.default = undefined;
 	
 	var _tkGradientsBar = __webpack_require__(7);
 	
 	var _tkGradientsBar2 = _interopRequireDefault(_tkGradientsBar);
+	
+	var _utils = __webpack_require__(11);
+	
+	var _utils2 = _interopRequireDefault(_utils);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
@@ -361,6 +365,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	exports.default = _tkGradientsBar2.default;
 	exports.install = install;
+	exports.tkGradients = _utils2.default;
 
 /***/ },
 /* 7 */
