@@ -1,7 +1,7 @@
 {
   "name": "vue-tk",
   "description": "一套自用的开发组件，只在特定环境下有效",
-  "version": "0.1.7",
+  "version": "0.1.11",
   "author": "Aker <717734797@qq.com>",
   "license": "MIT",
   "registry": "github",

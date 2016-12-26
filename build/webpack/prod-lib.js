@@ -31,12 +31,12 @@ export default merge(baseConfig, {
     library: 'VueTk',
     libraryTarget: 'umd'
   },
-  vue: {
+  /* vue: {
     loaders: {
       css: ExtractTextPlugin.extract('css'),
       scss: ExtractTextPlugin.extract(['css', 'sass'])
     }
-  },
+  }, */
   plugins: [
     new webpack.optimize.UglifyJsPlugin({
       compress: {
